@@ -1252,7 +1252,7 @@ decamelize@^1.0.0:
 
 deep-extend@~0.4.0:
   version "0.4.2"
-  resolved "https://registry.yarnpkg.com/deep-extend/-/deep-extend-0.4.2.tgz#48b699c27e334bf89f10892be432f6e4c7d34a7f"
+  resolved "https://registry.npmjs.org/deep-extend/-/deep-extend-0.4.2.tgz"
   integrity sha1-SLaZwn4zS/ifEIkr5DL25MfTSn8=
 
 deep-is@~0.1.3:
@@ -1311,7 +1311,7 @@ detect-indent@^4.0.0:
 detect-libc@^1.0.2:
   version "1.0.3"
   resolved "https://registry.yarnpkg.com/detect-libc/-/detect-libc-1.0.3.tgz#fa137c4bd698edf55cd5cd02ac559f91a4c4ba9b"
-  integrity sha1-+hN8S9aY7fVc1c0CrFWfkaTEups=
+  integrity sha512-pGjwhsmsp4kL2RTz08wcOlGN83otlqHeD/Z5T8GXZB+/YcpQ/dgo+lbU8ZsGxV0HIvqqxo9l7mqYwyYMD9bKDg==
 
 di@^0.0.1:
   version "0.0.1"
@@ -1639,7 +1639,7 @@ esutils@^2.0.2:
 
 ev-emitter@^1.0.0:
   version "1.1.1"
-  resolved "https://registry.npmjs.org/ev-emitter/-/ev-emitter-1.1.1.tgz"
+  resolved "https://registry.yarnpkg.com/ev-emitter/-/ev-emitter-1.1.1.tgz#8f18b0ce5c76a5d18017f71c0a795c65b9138f2a"
   integrity sha512-ipiDYhdQSCZ4hSbX4rMW+XzNKMD1prg/sTvoVmSLkuQ1MVlwjJQQA+sW8tMYR3BLUr9KjodFV4pvzunvRhd33Q==
 
 event-emitter@~0.3.5:
@@ -1931,7 +1931,7 @@ function-bind@^1.0.2, function-bind@^1.1.0, function-bind@^1.1.1:
 
 gauge@~2.7.3:
   version "2.7.4"
-  resolved "https://registry.yarnpkg.com/gauge/-/gauge-2.7.4.tgz#2c03405c7538c39d7eb37b317022e325fb018bf7"
+  resolved "https://registry.npmjs.org/gauge/-/gauge-2.7.4.tgz"
   integrity sha1-LANAXHU4w51+s3sxcCLjJfsBi/c=
   dependencies:
     aproba "^1.0.3"
@@ -2088,7 +2088,7 @@ hasha@^2.2.0:
 
 hawk@3.1.3, hawk@~3.1.3:
   version "3.1.3"
-  resolved "https://registry.yarnpkg.com/hawk/-/hawk-3.1.3.tgz#078444bd7c1640b0fe540d2c9b73d59678e8e1c4"
+  resolved "https://registry.npmjs.org/hawk/-/hawk-3.1.3.tgz"
   integrity sha1-B4REvXwWQLD+VA0sm3PVlnjo4cQ=
   dependencies:
     boom "2.x.x"
@@ -2156,10 +2156,10 @@ ignore@^3.2.0:
   resolved "https://registry.npmjs.org/ignore/-/ignore-3.3.5.tgz"
   integrity sha512-JLH93mL8amZQhh/p6mfQgVBH3M6epNq3DfsXsTSuSrInVjwyYlFE1nv2AgfRCC8PoOhM0jwQ5v8s9LgbK7yGDw==
 
-imagesloaded@^4.0.0:
-  version "4.1.3"
-  resolved "https://registry.npmjs.org/imagesloaded/-/imagesloaded-4.1.3.tgz"
-  integrity sha512-cjwkbOXFgDAuh1kpAwIvWfcUkQF9NXLlzS38L4szgiYeNCFFyNetblG5/OFzo4JweNxuDOk+5AIPlqFVIBIInA==
+imagesloaded@^4.1.4:
+  version "4.1.4"
+  resolved "https://registry.yarnpkg.com/imagesloaded/-/imagesloaded-4.1.4.tgz#1376efcd162bb768c34c3727ac89cc04051f3cc7"
+  integrity sha512-ltiBVcYpc/TYTF5nolkMNsnREHW+ICvfQ3Yla2Sgr71YFwQ86bDwV9hgpFhFtrGPuwEx5+LqOHIrdXBdoWwwsA==
   dependencies:
     ev-emitter "^1.0.0"
 
@@ -3553,7 +3553,7 @@ request-progress@^2.0.1:
 request@2.81.0, request@^2.81.0:
   version "2.81.0"
   resolved "https://registry.yarnpkg.com/request/-/request-2.81.0.tgz#c6928946a0e06c5f8d6f8a9333469ffda46298a0"
-  integrity sha1-xpKJRqDgbF+Nb4qTM0af/aRimKA=
+  integrity sha512-IZnsR7voF0miGSu29EXPRgPTuEsI/+aibNSBbN1pplrfartF5wDYGADz3iD9vmBVf2r00rckWZf8BtS5kk7Niw==
   dependencies:
     aws-sign2 "~0.6.0"
     aws4 "^1.2.1"
